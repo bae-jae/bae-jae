@@ -6,7 +6,7 @@
  - 로봇이 문을 통과하기 위한 Door Graph algorithm을 개발하여 양산 시스템에 적용했습니다. <블로그 링크 있으면 좋을듯>
  - 사용자 예약 알람 시스템을 개발했습니다. <블로그 링크 & 모델 설계>
  - 매칭 알고리즘을 개발했습니다  <블로그 링크 필요>
- - 코드 품질 향상을 위한 Git Action을 이용한 자동 테스팅(https://bjwan-career.tistory.com/56)
+ - [코드 품질 향상을 위한 Git Action을 이용한 자동 테스팅](https://bjwan-career.tistory.com/56)
 
 #### 블로그
 https://bjwan-career.tistory.com/
