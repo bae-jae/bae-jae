@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0e3c45&height=150&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-### 저는 문제 해결에 있어서는 항상 최적의 방법을 고민하며, 새로운 문제에 도전하는 것을 즐기는 백엔드 개발자입니다.👋
+### 저는 문제 해결에 있어서는 항상 최적의 방법을 고민하며, 새로운 문제에 도전하는 것을 즐기는 백엔드 개발자입니다.
 
 #### 개발 내역
  - 로봇이 문을 통과하기 위한 Door Graph algorithm을 개발하여 양산 시스템에 적용했습니다. <블로그 링크 있으면 좋을듯>
