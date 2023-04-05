@@ -3,10 +3,10 @@
 ### 저는 문제 해결에 있어서는 항상 최적의 방법을 고민하며, 새로운 문제에 도전하는 것을 즐기는 백엔드 개발자입니다.
 
 #### 개발 내역
- - [저는 Door Graph 알고리즘을 개발했습니다. 해당 알고리즘은 국내 자동차 대기업의 야간 순찰 프로그램에서 사용되고 있습니다.](https://bjwan-career.tistory.com/77)
- - [저는 미션별 수신 대상자가 달라지는 관제페이지 기능을 구현했습니다.](https://bjwan-career.tistory.com/79)
+ - [Door Graph 알고리즘을 개발하였습니다. 해당 알고리즘은 국내 자동차 대기업의 야간 순찰 프로그램에서 사용되고 있습니다.](https://bjwan-career.tistory.com/77)
+ - [미션별 수신 대상자가 달라지는 SMS 기능을 구현하였습니다..](https://bjwan-career.tistory.com/79)
  - 매칭 알고리즘을 개발했습니다  <블로그 링크 필요>
- - [Git Action을 사용한 테스트 자동화](https://bjwan-career.tistory.com/56)
+ - [Git Action을 활용하여 테스트 자동화를 구현하였습니다.](https://bjwan-career.tistory.com/56)
 
 #### 블로그
 https://bjwan-career.tistory.com/
